@@ -4,7 +4,7 @@ use 5.006_002;
 use Mouse ();
 use Mouse::Exporter;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 Mouse::Exporter->setup_import_methods();
 
