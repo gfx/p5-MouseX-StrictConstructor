@@ -2,7 +2,7 @@ use inc::Module::Install;
 
 all_from 'lib/MouseX/StrictConstructor.pm';
 
-requires 'Mouse' => '0.61';
+requires 'Mouse' => '0.62';
 
 test_requires 'Test::More' => 0.88; # done_testing()
 
