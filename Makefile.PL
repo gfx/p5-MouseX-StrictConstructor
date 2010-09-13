@@ -11,4 +11,4 @@ author_tests 'xt';
 
 auto_set_repository() if -d '.git';
 
-WriteAll(check_nmake => 1);
+WriteAll(check_nmake => 0);
